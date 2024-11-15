@@ -1,0 +1,142 @@
+Good afternoon, everybody. Welcome to session number 3 of you,
+and admin announcements before we get started. So 1st we're Juan. One is going to join us later today. With him also will be another partner from next month, Patrick Chunk. So
+if you see the 2 of them
+walking in so you can position the the faces also has announced. I don't know if you guys have seen it, that he's creating a kind of a new series called The Iop Revolving Door Series. Anybody seen this?
+It's basically, you know, a series of guest speakers. The 1st one will be tomorrow from 7 to 8 30 pm. At our office hours. Room upstairs, the Ll. 2, 75. So if you're interested in a little bit more details, it's Zack Reiser will be joining tomorrow
+check on press and Linkedin. You see the announcement here and today we're delighted to be joined by Elton Losner. He is the co-founder and CEO at Hazel subject today would be interfacing with Government Government procurement, which is something that I I know. All of. You are super interested in
+the for those of you listening to the recording, this will be a very abridged session from a recording perspective. We'll get the first, st probably 10 to 15 min of elton's remarks are going to be on record.
+and then we'll move to commit. So after that, Patrick, thanks for joining us. Thank you for having me
+super glad to have you guys here, just mentioning to everybody that today's for those that are listening to the recording. The recording piece is going to be very abridged Elton is going to give 10 to 15 min of general remarks that are going to be recorded.
+and then to make sure that we can have a very candid discussion about pricing with Government Government procurement. We'll have kind of an off the records session. And then, as we normally do, we'll get into a workshop mode. Okay?
+So, Elton, with that, we're all yours. Thank you very much for joining us cool
+1st off. What I'll do is I like to introduce myself. And then, if we could just go around the table so I can understand everyone's background what you're doing, what you're building so I can tailor to the audience. They'll be perfect. So as a follow introduce. I'm Elton Losner. I'm the founder and coo of Hazel. I graduated from Harvard in the class of 2019. I did my Sd. In electrical engineering. I did a secondary dynamics. I was a member of Purple House when I was at Harvard I was a writer for Hbr. Us. World. I was the co-founder of Harvard.
+I was involved in software advisory service and
+covered and open space. So a good mix of engineering and policy.
+I'm originally from Atlanta, Georgia. After I graduated from Harvard I returned back to my hometown in Atlanta. I worked for about 5 years. When I was at Bcg. I did work in Federal acquisitions procurement, so I supported the Department of Defense and Intelligence Community.
+In that work I did acquisitions for the Army, the Air Force, the Navy, the Sales force, and 2 Intelligence agencies. And if you're interested in that role of public service I hold. So I've seen some shit. Quite likely
+before I go in. This is a very us focused sort of conversation. So I want to note that even within the us this sort of conversation is very, very different between State and local as well as Federal government. So if you are building in an international market, a lot of this will be very.
+Another thing is that a lot of my remarks should be colored very directly by my background. So I'm from the South. I am American. My parents are immigrants. I'm the 1st member of my family to have gone to institution.
+So whatever I say, you'll have to take out like if your dad is the summer from Wyoming, and that's fucking awesome, because that's gonna change my building
+one of the most important things advice. If you get unsolicited advice from folks that don't average your advice, people take the advice that's best suited for the person in your position, the person who lived what you did, and actually your standards are good. So what I say may or not
+as far as Hazel. What we do is
+we founded Hazel in January 2024. We are an AI company serving the public sector specifically in procurement acquisitions.
+What we do is we use generative AI and classification AI to help government agencies, write solicitations and manage procurement, so procurement government agencies across the United States spend 2.7 trillion dollars a year on acquisitions. Procurement. About 700 billion dollars of that per year is with the Us. Federal government 2 trillion dollars with state and local governments. It's a very time intensive and very inefficient process, stymied by a lot of manual processes, a lot of paperwork and a lot of frankly crappy software.
+What we do is we use AI to write those solicitations, conduct that market research and then help our government agencies evaluate those events.
+We went through the Y combinator class of 124 we had fundraised. We had closed for sea ground.
+They've done all that good stuff. So if you have questions about what you go to market as your customer fundraising, I'm happy to share that as well.
+I with that I've got some prepared remarks. The way I like to section this is, I'll do maybe 1015 min recorded. I can do 5 min as a more candid conversation between the rest of us.
+Then I would like to segue into 20 min of just Q. And a answer all of your questions, because that's valuable to you. And then any other workshopping there. So the thing that came to me is your 2 sentence. Descriptions honestly, are really terrible. So I would like to help you out with them.
+with that would love to just pass around. Just go around originally from the DC area. I'm a freshman college. Currently, we're working on basically sort of agents to automate infrastructure workflows and also for forecasting topics. So
+Hi, I'm Fiona, I'm a junior at the college studying history, science, and computer science. And I'm building a platform to connect local tourism, destination real estate markets with outbound governments and patients
+visiting from Palo Alto, California.
+I'm 12 sponsor. Gov lab. So serial entrepreneur and the partner partner here in Cambridge. Okay, hey? I'm just the I'm studying the Mpp at the Kennedy school and at Copen Tech I'm the Co. Founder and coo.
+and we work with sustainable food producers that want to communicate how sustainable they are to their clients. So we preserve. We give them the data infrastructure to do so and to benchmark themselves against other clients. So if you're organic, we can tell you how much less do you emit than the other non-organic?
+Where are you from? Germany? Okay, yeah. So your rules are completely different. Okay.
+Hi, I'm Lizzie. I'm a senior at the college, and my friend, who's not here, and I are working on a tool, creating intergenerational ecosystems of
+advice and resources tailored to specific communities like schools.
+Hi, I'm Hassan. I'm a senior at the college study, neuroscience and economics, global health. I'm interested in building a platform to help with public trans access.
+Oh, Hi, Dave Zoe! The other coach is up.
+Oh, entrepreneur residence with Bowie
+and Harvard, and I'm working on a platform that the Government Allocate. Capital capitals are killing the same.
+Brian is a junior in college working on bringing philosophical grade classrooms through 12. Okay.
+my name's Lauren. I'm the founder of ballot wise, which is a service that shows you the side by side voting records of everyone on your balance. Okay, cool. It's very helpful. We've got a huge range of people, different markets. I know we have investors here, so I will temper my venture. Capital remarks. Be honest, you know what we think about you. No, we don't tell us. Well, you know what Yc. Tells us to say. Tell us
+so. I think the most important thing to say. If you're going to Gov. Tech, which is very, very distinct from a lot of other startups that I'm sure you have friends in different classes that have already dropped out and have like raised, maybe a jillion dollars or spending money and partying and volley.
+Gov tech is really hard guys like it takes a really really long time to show someone real.
+So the most important thing to recognize is like a lot of startups. Even traditionally, you're looking at when you guys are probably a factor in this, even 6 to 10 years. Right? For reasonable access to times. Right? The average is 8.3 years, and the latest status shows over 11 years. Yeah, so
+that just Gov, so that's the average. And so not every start is like Instagram, where you build in like less than 2 years and sell for a billion dollars. That just doesn't realistically happen anymore. And Gov is even longer, mostly because you're handled by the sales cycle that you're dealing with.
+And the thing is you're used to seeing this a lot of startups. The conversation is, the line goes up and to the right or up and hyperbolic right users your error, your revenue, all that stuff in government that is plainly not how it works at all. What you usually see is, you just see
+a flat line of 0, more or less, for it could be years one year, 2 years, 3 years, and then you'll have a step function where you'll finally make a breakthrough after slamming your head against the wall for those 2 or 3 years where you're finally get your 1st revenue, and then it could take off if you're selling to the Federal market like us, that could be
+no signal for 2 years, and then you get your 1st contract.
+so would you. Would you disagree with that or fact? Check me?
+See some perceptions?
+So this is really really slow, and I think the biggest challenge you'll face is that a lot of local governments especially, are not innovation minded. Just that's just the nature of the game. They're very risk, averse. The most important thing that a local government is trying to manage in its portfolio is risk. It's not
+anything else. It's not revenue, it's not cash. It's not ft. Turnover, it's not freedom units per dollar. It is risk.
+Because if you are a local government and you trust some 22 year old to manage your traffic light structure and the traffic lights don't work and that causes a car crash. You will be on actual use and you lose your job.
+So we're there incredibly risk averse. And you have to understand that you have to manage that. You have to work with them.
+It's always a partnership. They're never your customer. They're always your partner, and you have to be working side by side with them. This is absolutely crucial. Federal Government, in my experience, can be a little better at this, because the Federal Government does have pots of money to go after innovation innovation team. So the Sbir Ctr programs, for example, we have to have you and do side
+you have Afrl App works on the Air Force side. You have procurement, patient lab and security that do look at innovation and new stuff. So, and the Federal government does have centralized teams which are managing excellence. So Gsa, for example, Excellency.
+another thing to understand and building for government is that
+you'll which picks up on. My next point is you have to understand your customer and what they really want, because the unfortunate reality is what
+your custom. You have to understand your customer profile first.st If it's going to pay bills, it's going to fund you. So I've seen a lot of different ideas being kicked around. Is your customer the government directly, is it? Hospitals, for example? Is it consumers or general voters. Is it utility commissions? Is it schools? Who's going to be paying the bill because you have an operation trying? You need to get money.
+You can get that from Grant money, you can get that from customers. So, for example, I think I forgot your name. But you're doing your best customer might actually be hospitals and health insurance payers. It's not really the government. I don't think there's a lot of money there. If you can stay out of the government procurement system for your payments. That might actually be all. So just as an idea, you can serve the public good by still working, it's under interests.
+and usually what it all boils down to is frankly time and money, mostly time, because what you'll see is, and especially the Federal Government. This is very few, but local to a lot of the what they call them is billets. The bullet structure of how local governments are run. They only have a fixed number of ftes per year that gets budgeted out. And so what oftentimes happens in these governments? This is actually true. The Federal Government today that I believe the Federal workforce doesn't grow
+sixties is that the work will continue to increase. But the time with which and the amount of people which then the number of manors which are available to do this work has not increased. So obviously, you look to technology to manage these synergies.
+That is the most precious thing for a lot of government agencies. What's their time worth for some government agencies? It is money. So, for example, a good example is managing payments, revenue streams. So managing fare collection for mass transit or managing cash disbursements for Federal grant programs. That is good is that is, revenue accretive to a lot of governments. They like that. Anything that is saving them. Money, not really
+that valuable sometimes, which is one of the challenges we face another one is that
+these
+soft things, like goodwill and civic trust and citizen engagement are really great.
+When you are writing white papers you will find very quickly that governments candidly don't give a shit about it, and will not pay for it.
+And so, just as an anecdote from something I have seen is that
+I have a I have a friend or colleague who's the best way to say bugs me what he does. He does personal protection, safety for election workers. So these are volunteer workers as a poll, who's at the poll stations.
+And this these are these are like, you know, women in their fifties or sixties, or just volunteering. They make $20 an hour, and they had to pull booths and get people their sticker. So
+past 4 years, if you haven't had your head in the sand. You recognize that safety collection workers is a huge problem. A lot of them are facing threats of
+physical violence. They're facing threats to their life, their limb, their family, they're attacked on social media. So what my buddy does is he was a former
+a member of the Director of Operations work in the FBI law enforcement. So he does this personal protection, security detail for election workers. He works for local government that provides fiscal security to people. He also provides counseling and motion support therapy services for them when they're targeted. Online.
+Governments don't pay for this.
+He is fighting domestic terrorism in the United States, and government agencies will not pay him at all, and he has trouble. So the question that you have to ask yourself is is your product
+more important than fighting terrorism
+mean. Maybe he's not great at selling, but he certainly has the best. Maybe he certainly has capabilities to do this, and this is certainly a problem.
+So money and time, because safety isn't often you have to ask yourself a question on this specific building.
+I would say. Another example of this is, we
+thought that supplier diversity was going to be a very good avenue to go with. So when you think about procurement, if you guys are all building businesses right now, you should all, by the way, if you're seriously think about this weekly incorporate today, and then register as a diverse business with the city of Boston, because that will unlock a ton of set aside contracts for you if you're selling like literally go home, incorporate corporation and then file the city of Boston today.
+the
+you said legally. Register as a head first.st Yes, you need to have a legal business first, st but then register, assuming you have your ownership, your shares, your fundraising change things depending on how you raise. But if your business is over 50% owned by people who are over 50% of a disadvantaged, historically disadvantaged group. So that depends on the municipality. You can get set aside contracts. This is a system that exists. You should take advantage of it.
+The.
+We tested the thesis that local governments really wanted to increase their share of minority business spend. So we shop this around many
+blue governments in the United States. Many governments struggle to share, spend more money with their disadvantaged business community. This is probably available. The city of Cambridge spent 1% with procurement money with disadvantage businesses in 21
+we had a thesis that we could improve this for our social mission of our company. And
+what turned out is after selling to many, many different governments. United States.
+They don't buy this. They really don't buy this it's just not something everyone to pay for.
+So think very carefully about what your time proposition is, what your value proposition is.
+build something other people actually want.
+I'd say another thing when it comes to selling.
+which is, I imagine, going to be a pretty top of mind. Matter for a lot of people is that you should absolutely use your different edges, your niches to win in this market.
+So, Harvard, education, depending on where you're going back to where you're from this is a very strong selling point. Alumni networks. Even better is, Harvard has very strong alumni networks in the Federal Government. Federal government has large dollar values and a lot of control over a lot of different policies. You should definitely use that
+for me, because I go back home to Georgia. I usually don't mention where I go to school.
+Local geography can help. So, depending on where you're from, a lot of local governments are interested in technology, they see technology, they see dollar signs, innovation. So you should definitely talk to your local governments and see if they would be interested in doing this. So. If that applies to you, you should at least try. You're going to get rejected a lot in this space. So just try where things they say no, and I promise you they won't forget about you if you made a fool of yourself, so don't worry about it too much.
+Another one is, use your personality networks. So, for example, if you are Asian American, you should use those. If you're Indian American, you should use those networks with professional connections. People will look out for you because
+there are.
+there are established communities where that will disadvantage you. So where it helps you, you should use them. I'll say that diplomatically.
+Some States are worse than others. You'll be shocked at which ones are really bad.
+Another one is when you're selling, unless your mission is very explicitly partisan. This might sound very obvious, but do not play the partisan politics game, because I
+like the Us. Is electoral democracy. I promise you, when the person who is the executor in the legislative branch changes over, that will come to bite you in the ass, and you will not be able to recover so, and that includes more or less single party States and governments. So, for example.
+we had a very strong inroad to the Governments of New York City.
+New York City, has over 100 departments that operate like a candidate very well over Michigan. I've been very impressed with the way New York city operates itself, and at 1 point we were approached by someone to help. I think it was donate to a fundraiser for Eric Adams election, and we had a policy that was longstanding of, we would not donate to any political reelection candidates. This is partially because many of our people on our cap table are from different political views and orientations. So, for example.
+the son of a major Red State governors on our cap table, we decided that would be very good. Sure enough, 2 weeks ago Eric Adams gets indicted by the FBI for corruption. So you can imagine, if we were chips in with him, what would have happened with the next administration, so just don't do it, don't do it. Your mission is so I would recommend being done.
+I would say the 2 ways where you have right to win are just be so much better than the existing solution is pretty much where it comes down to. If you could be cheaper and save money. That's great. But you shouldn't leave value on the table if you're creating, and that price point for you will depend on what you're building. So, for example, our price point is very, very low. I won't say it here, but I will say I know governments, or I know of startups with price points well over 10 x ours. That's just because they work in construction and construction is very high dollar speed.
+I would say if you're talking about pricing so 1st one is, don't ever do free pilots with government agencies because they won't treat you like you're worth anything. Because you told them that you're not being priced for free. You should look at the Rfp. Threshold for each of them. So at certain threshold you have to go through request for proposal.
+but if you go below the certain threshold, you can go through what's called the Pl. Moment shorter where they can more or less swipe their credit card and pay for you. That means they don't have to do a competitive solicitation for you. This varies by different government agencies. So, for example, the city of Boston is a notoriously low purchase requirement is $10,000 a year for a single vendor. City of Chicago is $100,000 per vendor.
+If you're a minority business sometimes this threshold is higher. So, for example, if you're an Mbe. In the city of New York. Your Po threshold is 1.2 million dollars. You can get a lot out of a city with 1.2 million dollars. So again, if you're eligible. Get that certification now.
+Another one is
+a lot of these sales. Channels are very calcified. So one of the best ways to do that is to sell through a service provider or through a management consulting company. So you'll hear the names Kerasoft, entire technology, especially if you saw local government.
+It is the double, you know. You will probably have to work with them at some point. Kerasoft was also rated by the FBI last week, so that's like your little should look it up. False claims act no lie in the Government.
+But consulting companies are very interesting. So you're thinking about your accentures, your Deloitte. Your device. A lot of them do advisory services to local government. They have very well established governments within these communities.
+and typically what they will do is they will do a shared services, delivery sales model where you deliver the software, you integrate it services. They like new tech solutions, and they have relationships with all these local governments, where otherwise you would have. No, you have so most chance of hell of getting into these work with them. They're helpful, they will charge you, but they're worth it.
+As far as marketing goes as well.
+The outbound email campaign and our experience doesn't really work that. Well.
+you can email inboxes all day and government officials will read them. They do read their emails at strikingly high rates. We found 50 to 60%. It's not neutral detail, but the reality is they oftentimes won't cover off the best way to do this. You just actually just call their cell phones or call their phones. Some of this depends on department because some government agencies to stop connecting the phone lines because people call the phone and usually people. So they cut the phone lines intentionally.
+or, if you can, conferences are a great way to get publicity, so speak at conferences. Speak conferences. Actually. That is the number one way you're gonna market. You're gonna pay
+candid amount like so $1,000, probably. But there are started packages. That's the best way you're gonna get marketing.
+And then I think the most important thing is just this is a general sales day.
+You're not going to change anyone's minds whenever you approach them. So if you're doing
+So you're going to inform voter engagement. If you're a government agency or doesn't really care that the voters are calling or not. This is symbolic. You're never going to convince them that the voters should be informed. You're unfortunately just not. The reality is you have to look for the right people to see who care about this problem and have this problem in any sales motion you have is just
+you're just taking shots and seeing if you can hit any of those people that have that problem.
+You're not gonna persuade them that what you're doing is something they need, which what you will do is you'll persuade someone with that existing problem that you have the solution to the problem. That's what you're looking for. So if someone tells you, no.
+leave the No, and just keep moving. That's all you can do. Don't keep chasing that. No, because they talk to you times. There's wasting your time.
+You have 3 tier questions said that they're gonna go through you, or you need to ask them. Is is this pain or this challenge that they're solving really bad enough.
+The second one is, are you going to be the right person to solve that?
+So think carefully. You will be a 22 year old, maybe, with possibly a computer science degree and a laptop. So how are you going to show yourself that you're the right person to solve it?
+And then the 3rd one is, are you going to do it at the right price? Point?
+1 million dollars for most of you is unlimited. Right?
+For obvious reasons, but in many ways 20 bucks is also a bad price point, too, because it's not credible.
+So ask yourself that.
+That's all I have for
+thanks, Elton. We'll switch off the recording. But before doing that I wanted to emphasize the point that you made in the guinea and link back to selling through consultants. You've mentioned that one of the
+biggest focus areas of requirements is that they're very risk averse
+right? So another potential benefit of align yourselves with myself.
+and one of these large established firms is risk mitigation right? In a sense, governments sometimes look at these larger firms as a form of risk identification, because you're not signing up for the risk of your smaller nascent startup. But you're signing up for that larger company. I've spent many years, as you know, in one of those
+right? And that did exactly what I was describing. Yeah.
+do you guys have anything to correct record on that? I said, No, you're doing. You're doing wonderful. Okay? Actually teaching me some stuff.
+Great.
+alright, very good. So we move into the non recorded
+part of this.

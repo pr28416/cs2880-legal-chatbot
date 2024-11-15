@@ -1,0 +1,1 @@
+supabase gen types typescript --project-id rxhawokjtvmvhdyqmrvp --schema public > lib/types/schema.ts
