@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import createSupabaseClient from "@/supabase/utils";
 import { Database } from "@/lib/types/schema";
 import { get_openai_client } from "@/lib/utils";

@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { Database } from "@/lib/types/schema";
 import { streamText } from "ai";
 import { openai } from "@ai-sdk/openai";
