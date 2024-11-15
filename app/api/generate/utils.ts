@@ -23,7 +23,6 @@ export async function generate(query: string, sections: Section[]) {
     const response = await openai.chat.completions.create({
         model: "gpt-4o-mini",
         messages: [{ role: "user", content: generate_prompt(query, sections) }],
-        max_tokens: 500,
         stream: true,
     });
 
