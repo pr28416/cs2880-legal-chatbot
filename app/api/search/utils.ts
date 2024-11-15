@@ -11,7 +11,7 @@ type Section = Database["public"]["Tables"]["sections"]["Row"];
 export async function search(
     query: string,
     match_threshold: number = 0.5,
-    match_count: number = 10,
+    match_count: number = 5,
 ): Promise<SearchResponse> {
     const client = createSupabaseClient();
     const openai = get_openai_client();
