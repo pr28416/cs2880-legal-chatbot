@@ -14,7 +14,7 @@ The user asked: "${query}"
 Here are the relevant sections:
 ${JSON.stringify(sections)}
 
-Answer the user's question only based on the provided sections. Your response should be concise and precise. Your output should be in Markdown. Use correct bolding, italics, and headers where needed. Cite with article and section number as needed in the format of [(article_number.section_number)](url).
+Answer the user's question only based on the provided sections. Craft your response in a human-like way, and use language that is easy to understand. Feel free to give examples if it makes sense. Your response should be concise and precise. Your output should be in Markdown. Use correct bolding, italics, and headers where needed. Cite with article and section number as needed in the format of [(article_number.section_number)](url).
     `;
 };
 

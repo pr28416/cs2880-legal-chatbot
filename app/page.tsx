@@ -12,6 +12,12 @@ export default function Home() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+  const samplePrompts = [
+    "What are the open space requirements for residential lots, and can balconies or roof spaces count as usable open space?",
+    "What are the front yard depth requirements for my lot, and are there restrictions on structures, landscaping, or basement access in the front yard?",
+    "What are the laws relating to neighbors being excessively noisy?",
+    "What are the requirements for the side yard, and can I use it for a garden or parking?",
+  ];
 
   const sendMessage = async (message: string) => {
     const searchResponse = await fetch("/api/search", {
@@ -21,8 +27,8 @@ export default function Home() {
     const searchData = (await searchResponse.json()) as SearchResponse;
 
     if (searchData.sections.length === 0) {
-      setMessages([
-        ...messages,
+      setMessages((prev) => [
+        ...prev,
         {
           role: "assistant",
           content: "I couldn't find any relevant information in the document.",
@@ -88,8 +94,23 @@ export default function Home() {
             ))}
           </div>
         ) : (
-          <div className="flex flex-col items-center justify-center h-full text-3xl tracking-tight font-medium">
-            What can I help you with?
+          <div className="flex flex-col items-center justify-center h-full gap-8">
+            <div className=" text-3xl tracking-tight font-medium">
+              What can I help you with?
+            </div>
+            <div className="grid grid-cols-2 gap-2">
+              {samplePrompts.map((prompt, idx) => (
+                <Button
+                  key={idx}
+                  variant="outline"
+                  size="sm"
+                  className="text-wrap p-4 h-full max-w-sm w-full"
+                  onClick={() => handleSend(prompt)}
+                >
+                  {prompt}
+                </Button>
+              ))}
+            </div>
           </div>
         )}
       </div>
