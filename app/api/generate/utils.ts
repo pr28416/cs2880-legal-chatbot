@@ -24,6 +24,7 @@ export async function generate(query: string, sections: Section[]) {
         model: "gpt-4o-mini",
         messages: [{ role: "user", content: generate_prompt(query, sections) }],
         stream: true,
+        max_tokens: 2048,
     });
 
     return response;
